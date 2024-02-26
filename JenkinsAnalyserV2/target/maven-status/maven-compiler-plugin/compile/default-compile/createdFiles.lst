@@ -1,0 +1,6 @@
+com/example/JenkinsAnalyserV2/BrowserLauncher.class
+com/example/JenkinsAnalyserV2/models/SubJobDetails.class
+com/example/JenkinsAnalyserV2/JenkinsAnalyser.class
+com/example/JenkinsAnalyserV2/JobDetailsExtractor.class
+com/example/JenkinsAnalyserV2/models/JOBDetails.class
+com/example/JenkinsAnalyserV2/Controllers.class

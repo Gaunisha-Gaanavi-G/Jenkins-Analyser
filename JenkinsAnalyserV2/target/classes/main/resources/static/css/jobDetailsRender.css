@@ -1,0 +1,35 @@
+body{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    background-color: rgb(241, 240, 240);
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Ubuntu, sans-serif;
+}
+.body-cont{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+thead{
+    background-color: #303245;
+    color: white;
+}
+.table{
+    width:800px;
+    overflow: scroll;
+}
+p{
+    display: flex;
+    justify-content: space-between;
+}
+p .sub-content{
+    width:400px;
+    margin-left:30px;
+}
+.title-cont{
+    padding: 30px;
+    align-items: normal;
+    background-color:#284b63;
+    border-radius:5px;
+    color:white;
+}
